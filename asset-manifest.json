@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DerechoPeticionOnline/static/css/main.03ac81dd.css",
-    "main.js": "/DerechoPeticionOnline/static/js/main.1d60d6df.js",
+    "main.js": "/DerechoPeticionOnline/static/js/main.8742ab21.js",
     "static/js/787.a50ed38f.chunk.js": "/DerechoPeticionOnline/static/js/787.a50ed38f.chunk.js",
     "static/media/logo.svg": "/DerechoPeticionOnline/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/DerechoPeticionOnline/index.html",
     "main.03ac81dd.css.map": "/DerechoPeticionOnline/static/css/main.03ac81dd.css.map",
-    "main.1d60d6df.js.map": "/DerechoPeticionOnline/static/js/main.1d60d6df.js.map",
+    "main.8742ab21.js.map": "/DerechoPeticionOnline/static/js/main.8742ab21.js.map",
     "787.a50ed38f.chunk.js.map": "/DerechoPeticionOnline/static/js/787.a50ed38f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03ac81dd.css",
-    "static/js/main.1d60d6df.js"
+    "static/js/main.8742ab21.js"
   ]
 }
