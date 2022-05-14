@@ -205,12 +205,6 @@ function App() {
             </div>
 
             <div>
-              {GetTextoEjemplo("Escribe aquí ciudad expedicion cedula", "Aguachica")}
-              {GetTextoInput(cedulaDe, setCedulaDe)}
-
-            </div>
-
-            <div>
               {GetTextoEjemplo("Escribe aquí mas acerca de usted ejemplo", "Residente de Barrio los cocos, en representación de la ciudadana ejerciendo el derecho del articulo 2 de la constitucion  ")}
               {GetTextoAreaInput(acercaCiudadano, setAcercaCiudadano)}
             </div>
